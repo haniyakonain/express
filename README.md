@@ -65,6 +65,7 @@ delete - remove<br>
 
 <h2> postman </h2>
 test the get , post , post , delete <br>
+Postman is a popular API development and testing tool that allows users to<br> send HTTP requests, examine responses, and debug web services.<br>
 
 <h2> res.json({})</h2>
 otherwise program will be hung<br>
