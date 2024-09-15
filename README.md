@@ -45,7 +45,9 @@ accepting route and doing something deployed on local network<br>
 
 <h2> 2 ways of input</h2>
 query parameter- after ? everything<br>
-body<br>
+Data sent in the URL after a question mark (?), typically as key-value pairs.
+<br>
+request body- Data sent in the body of an HTTP request, often used for larger amounts of data or complex structures.<br>
 
 <h2> request methods</h2>
 get - asking<br>
