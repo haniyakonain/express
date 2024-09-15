@@ -1,4 +1,6 @@
 <h1>express</h1> <br>
+Express is a popular web application framework for Node.js. 
+It simplifies the process of building web applications by providing a robust set of features for web and mobile applications
 
 <h2>thread</h2>
 <br> can do something<br>
