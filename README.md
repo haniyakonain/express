@@ -1,10 +1,10 @@
-<h1>express</h1> 
+<h1>express</h1> <br>
 
 <h2>thread</h2>
 <br> can do something<br>
 
 <h2> HTTP</h2>
-hyper text transfer protocol<br>
+hyper text transfer protocol
 
 <h2> HTTP server</h2>
 where your logic is exposed<br>
