@@ -72,15 +72,3 @@ otherwise program will be hung<br>
 
 same thing log <br>
 
-arrow function ( => )
-
-Arrow functions provide a concise way to write function expressions in JavaScript. <br>They have a shorter syntax and lexically bind this
-// Regular function
-function add(a, b) {
-  return a + b;
-}
-
-// Arrow function
-const add = (a, b) => a + b;
-
-
